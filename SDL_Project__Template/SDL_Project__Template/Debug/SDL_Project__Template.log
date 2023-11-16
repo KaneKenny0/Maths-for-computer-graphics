@@ -1,0 +1,29 @@
+﻿  Source.cpp
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(182,23): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(213,23): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(216,31): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=long double
+          ]
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(217,35): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=long double
+          ]
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(222,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(222,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(231,207): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(231,169): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(231,131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(231,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(232,206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(232,168): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(232,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(232,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(233,206): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(233,168): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(233,130): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(233,92): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\SDL_Project__Template\Source.cpp(238,23): warning C4018: '<': signed/unsigned mismatch
+  SDL_Project__Template.vcxproj -> D:\Downloads\MCG_Final\Working Bresenham's Algo\Working Bresenham's Algo\SDL_Project__Template\Debug\SDL_Project__Template.exe
